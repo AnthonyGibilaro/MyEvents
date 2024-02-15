@@ -31,7 +31,7 @@
 
 1. Clonez le dépôt GitHub.
 ```sh
-git clone https://github.com/Github-GIBILARO-Anthony/my_events.git
+git clone git@github.com:AnthonyGibilaro/MyEvents.git
 ```
 
 2. Installez les dépendances avec npm ou Yarn.
